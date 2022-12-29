@@ -9,8 +9,6 @@ What was developed:
 - Mobile version and responsiveness;
 - DOM manipulation;
 - Function return;
-- Breakpoints with media query;
-- Importing an external CSS file to the project;
 - Work with colors and fonts;
 - Align and position text and elements;
 - Application of spacing;
