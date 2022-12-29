@@ -1,6 +1,6 @@
 ### 💻 IMC CALCULATOR
 
-Create an imc calculator, this tool will help calculate the Body Mass Index to assess a person's weight and height and determine if he is at the right weight, under or over ideal weight, using HTML, CSS and programming language Javascript.
+I created an imc calculator, this tool will help calculate the Body Mass Index to evaluate a person's weight and height and determine if he is at the right weight, under or over ideal weight, using HTML, CSS and programming language Javascript.
 
 
 What was developed:
