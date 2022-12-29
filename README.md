@@ -37,7 +37,7 @@ Application developed using the following tools:
 
  
 
-<p align="center">Made with 💜 by Agnelo Neto 👋</p>
+<p align="left">Made  by Agnelo Neto </p>
 
 - [LINKEDIN](https://www.linkedin.com/in/agneloneto) - https://www.linkedin.com/in/agneloneto/
 
