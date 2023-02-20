@@ -18,6 +18,12 @@ What was developed:
 <br />
 
 
+<h1 align="center">
+<img alt="Video gif " title="gif" src="./imccalculator.gif" />
+</h1>
+
+
+
 ## 🧪 Tools
 
 Application developed using the following tools:
